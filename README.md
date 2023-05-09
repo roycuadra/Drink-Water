@@ -1,4 +1,6 @@
-### Drink Water
+# [Live Demo](https://drink-water-rho.vercel.app/)
+
+## Drink Water
 
 This JavaScript code is responsible for generating a Liquid Fill Effect i.e. when the user clicks on one of the cups, the amount of water in the big cup gets updated and the small cups get highlighted accordingly.
 
